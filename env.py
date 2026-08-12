@@ -1,5 +1,5 @@
 """
-Alembic environment, adapted for an async SQLAlchemy engine.
+Alembic environments, adapted for an async SQLAlchemy engine.
 
 Imports app.models so Base.metadata is fully populated before
 `--autogenerate` compares it against the live database schema.
