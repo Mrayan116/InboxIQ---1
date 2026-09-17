@@ -1,6 +1,6 @@
 """
 Application entrypoint. Kept thin on purpose — wiring only, no business
-logic. Routers are added here as we build each feature in later stages.
+logic. Routers are added here as we build each feature in later stages
 """
 
 from fastapi import FastAPI
